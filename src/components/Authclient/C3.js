@@ -5,10 +5,10 @@ const { checkbox } = components.C3.controls
 const props = {
   authclient: {
     authClientID: '',
-    handle: 'corteza-webapp',
+    handle: 'datageometry-webapp',
     meta: {
       description: '',
-      name: 'Corteza Web Applications',
+      name: 'DataGeometry Web Applications',
     },
   },
   roles: [],

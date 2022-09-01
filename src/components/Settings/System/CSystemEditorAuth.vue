@@ -172,7 +172,7 @@
         <b-input-group>
           <b-form-input
             v-model="settings['auth.multi-factor.totp.issuer']"
-            placeholder="Corteza"
+            placeholder="DataGeometry"
           />
         </b-input-group>
       </b-form-group>
